@@ -1,0 +1,29 @@
+@media(min-width: 767px){
+  .container-topo {
+    padding: 30px 0;
+  }
+  
+  .link-principal {
+    font-size: 36px;
+  }
+  
+  .navegacao-links {
+    font-size: 24px;
+  }
+  
+  .box-titulo {
+    padding: 60px 90px;
+  }
+  
+  .box-titulo h1 {
+    font-size: 60px;
+  }
+  
+  .box-titulo p {
+    font-size: 24px;
+  }
+  
+  .container-texto p {
+    font-size: 24px;
+  }
+}
